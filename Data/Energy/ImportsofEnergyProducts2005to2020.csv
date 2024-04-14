@@ -1,0 +1,193 @@
+year,energy_products,sub_products,value_ktoe
+2005,Coal and Peat,Coal and Peat,8.2
+2005,Crude Oil,Crude Oil,58884.6
+2005,Crude Oil,Other Crude Oil,1315.6
+2005,Petroleum Products,Fuel Oil,29551.2
+2005,Petroleum Products,Gas/Diesel Oil,3999.7
+2005,Petroleum Products,Gasoline,7619.5
+2005,Petroleum Products,Jet Fuel Kerosene,2180.7
+2005,Petroleum Products,Naphtha,4095.0
+2005,Petroleum Products,Other Petroleum Products,1845.8
+2005,Natural Gas (NG),Pipeline NG,5571.1
+2005,Natural Gas (NG),Liquefied NG,0.0
+2005,Other Energy Products,Other Energy Products,0.0
+2006,Coal and Peat,Coal and Peat,4.4
+2006,Crude Oil,Crude Oil,56740.9
+2006,Crude Oil,Other Crude Oil,1547.4
+2006,Petroleum Products,Fuel Oil,35510.6
+2006,Petroleum Products,Gas/Diesel Oil,6344.6
+2006,Petroleum Products,Gasoline,7891.5
+2006,Petroleum Products,Jet Fuel Kerosene,2429.4
+2006,Petroleum Products,Naphtha,3733.2
+2006,Petroleum Products,Other Petroleum Products,1910.8
+2006,Natural Gas (NG),Pipeline NG,6007.3
+2006,Natural Gas (NG),Liquefied NG,0.0
+2006,Other Energy Products,Other Energy Products,0.0
+2007,Coal and Peat,Coal and Peat,6.6
+2007,Crude Oil,Crude Oil,55126.0
+2007,Crude Oil,Other Crude Oil,1503.1
+2007,Petroleum Products,Fuel Oil,40331.3
+2007,Petroleum Products,Gas/Diesel Oil,6437.3
+2007,Petroleum Products,Gasoline,9146.0
+2007,Petroleum Products,Jet Fuel Kerosene,2831.5
+2007,Petroleum Products,Naphtha,3824.9
+2007,Petroleum Products,Other Petroleum Products,913.8
+2007,Natural Gas (NG),Pipeline NG,6433.9
+2007,Natural Gas (NG),Liquefied NG,0.0
+2007,Other Energy Products,Other Energy Products,0.0
+2008,Coal and Peat,Coal and Peat,4.1
+2008,Crude Oil,Crude Oil,54076.9
+2008,Crude Oil,Other Crude Oil,1554.4
+2008,Petroleum Products,Fuel Oil,47369.4
+2008,Petroleum Products,Gas/Diesel Oil,9053.2
+2008,Petroleum Products,Gasoline,10531.9
+2008,Petroleum Products,Jet Fuel Kerosene,3540.5
+2008,Petroleum Products,Naphtha,4391.0
+2008,Petroleum Products,Other Petroleum Products,1362.1
+2008,Natural Gas (NG),Pipeline NG,6585.7
+2008,Natural Gas (NG),Liquefied NG,0.0
+2008,Other Energy Products,Other Energy Products,0.0
+2009,Coal and Peat,Coal and Peat,3.3
+2009,Crude Oil,Crude Oil,47479.8
+2009,Crude Oil,Other Crude Oil,1600.1
+2009,Petroleum Products,Fuel Oil,54786.6
+2009,Petroleum Products,Gas/Diesel Oil,15131.6
+2009,Petroleum Products,Gasoline,11792.0
+2009,Petroleum Products,Jet Fuel Kerosene,3091.7
+2009,Petroleum Products,Naphtha,4614.3
+2009,Petroleum Products,Other Petroleum Products,883.9
+2009,Natural Gas (NG),Pipeline NG,6656.7
+2009,Natural Gas (NG),Liquefied NG,0.0
+2009,Other Energy Products,Other Energy Products,0.0
+2010,Coal and Peat,Coal and Peat,6.0
+2010,Crude Oil,Crude Oil,44332.2
+2010,Crude Oil,Other Crude Oil,1742.1
+2010,Petroleum Products,Fuel Oil,58020.0
+2010,Petroleum Products,Gas/Diesel Oil,17459.2
+2010,Petroleum Products,Gasoline,14858.7
+2010,Petroleum Products,Jet Fuel Kerosene,3602.7
+2010,Petroleum Products,Naphtha,5970.2
+2010,Petroleum Products,Other Petroleum Products,1149.6
+2010,Natural Gas (NG),Pipeline NG,7214.5
+2010,Natural Gas (NG),Liquefied NG,0.0
+2010,Other Energy Products,Other Energy Products,0.0
+2011,Coal and Peat,Coal and Peat,6.1
+2011,Crude Oil,Crude Oil,45251.7
+2011,Crude Oil,Other Crude Oil,1836.1
+2011,Petroleum Products,Fuel Oil,62639.9
+2011,Petroleum Products,Gas/Diesel Oil,17578.3
+2011,Petroleum Products,Gasoline,14786.0
+2011,Petroleum Products,Jet Fuel Kerosene,2228.4
+2011,Petroleum Products,Naphtha,6122.1
+2011,Petroleum Products,Other Petroleum Products,2466.6
+2011,Natural Gas (NG),Pipeline NG,7286.8
+2011,Natural Gas (NG),Liquefied NG,0.0
+2011,Other Energy Products,Other Energy Products,0.0
+2012,Coal and Peat,Coal and Peat,25.0
+2012,Crude Oil,Crude Oil,50430.1
+2012,Crude Oil,Other Crude Oil,1761.3
+2012,Petroleum Products,Fuel Oil,59444.4
+2012,Petroleum Products,Gas/Diesel Oil,14584.4
+2012,Petroleum Products,Gasoline,13980.8
+2012,Petroleum Products,Jet Fuel Kerosene,1586.8
+2012,Petroleum Products,Naphtha,6369.9
+2012,Petroleum Products,Other Petroleum Products,1611.3
+2012,Natural Gas (NG),Pipeline NG,7901.6
+2012,Natural Gas (NG),Liquefied NG,0.0
+2012,Other Energy Products,Other Energy Products,0.0
+2013,Coal and Peat,Coal and Peat,266.4
+2013,Crude Oil,Crude Oil,46920.5
+2013,Crude Oil,Other Crude Oil,1839.1
+2013,Petroleum Products,Fuel Oil,63691.9
+2013,Petroleum Products,Gas/Diesel Oil,12930.3
+2013,Petroleum Products,Gasoline,13895.5
+2013,Petroleum Products,Jet Fuel Kerosene,1673.0
+2013,Petroleum Products,Naphtha,7693.4
+2013,Petroleum Products,Other Petroleum Products,2295.9
+2013,Natural Gas (NG),Pipeline NG,7947.8
+2013,Natural Gas (NG),Liquefied NG,948.3
+2013,Other Energy Products,Other Energy Products,26.7
+2014,Coal and Peat,Coal and Peat,396.2
+2014,Crude Oil,Crude Oil,47147.8
+2014,Crude Oil,Other Crude Oil,2007.9
+2014,Petroleum Products,Fuel Oil,62279.9
+2014,Petroleum Products,Gas/Diesel Oil,14322.8
+2014,Petroleum Products,Gasoline,14774.5
+2014,Petroleum Products,Jet Fuel Kerosene,2041.2
+2014,Petroleum Products,Naphtha,8981.5
+2014,Petroleum Products,Other Petroleum Products,1401.6
+2014,Natural Gas (NG),Pipeline NG,7384.5
+2014,Natural Gas (NG),Liquefied NG,2033.3
+2014,Other Energy Products,Other Energy Products,44.4
+2015,Coal and Peat,Coal and Peat,406.1
+2015,Crude Oil,Crude Oil,48089.0
+2015,Crude Oil,Other Crude Oil,1919.5
+2015,Petroleum Products,Fuel Oil,69902.8
+2015,Petroleum Products,Gas/Diesel Oil,14809.2
+2015,Petroleum Products,Gasoline,15614.9
+2015,Petroleum Products,Jet Fuel Kerosene,2007.7
+2015,Petroleum Products,Naphtha,9684.5
+2015,Petroleum Products,Other Petroleum Products,1388.1
+2015,Natural Gas (NG),Pipeline NG,7133.6
+2015,Natural Gas (NG),Liquefied NG,2319.9
+2015,Other Energy Products,Other Energy Products,81.1
+2016,Coal and Peat,Coal and Peat,426.6
+2016,Crude Oil,Crude Oil,51645.4
+2016,Crude Oil,Other Crude Oil,1764.6
+2016,Petroleum Products,Fuel Oil,68560.6
+2016,Petroleum Products,Gas/Diesel Oil,15896.1
+2016,Petroleum Products,Gasoline,16891.2
+2016,Petroleum Products,Jet Fuel Kerosene,3131.1
+2016,Petroleum Products,Naphtha,7221.5
+2016,Petroleum Products,Other Petroleum Products,1606.7
+2016,Natural Gas (NG),Pipeline NG,7418.6
+2016,Natural Gas (NG),Liquefied NG,2261.9
+2016,Other Energy Products,Other Energy Products,116.4
+2017,Coal and Peat,Coal and Peat,898.6
+2017,Crude Oil,Crude Oil,56631.0
+2017,Crude Oil,Other Crude Oil,1923.5
+2017,Petroleum Products,Fuel Oil,76356.2
+2017,Petroleum Products,Gas/Diesel Oil,14321.4
+2017,Petroleum Products,Gasoline,16683.2
+2017,Petroleum Products,Jet Fuel Kerosene,3085.8
+2017,Petroleum Products,Naphtha,8258.9
+2017,Petroleum Products,Other Petroleum Products,1811.3
+2017,Natural Gas (NG),Pipeline NG,7143.4
+2017,Natural Gas (NG),Liquefied NG,2728.4
+2017,Other Energy Products,Other Energy Products,84.4
+2018,Coal and Peat,Coal and Peat,477.9
+2018,Crude Oil,Crude Oil,55188.6
+2018,Crude Oil,Other Crude Oil,1991.7
+2018,Petroleum Products,Fuel Oil,66396.0
+2018,Petroleum Products,Gas/Diesel Oil,13054.1
+2018,Petroleum Products,Gasoline,16640.8
+2018,Petroleum Products,Jet Fuel Kerosene,1369.5
+2018,Petroleum Products,Naphtha,7045.4
+2018,Petroleum Products,Other Petroleum Products,3191.1
+2018,Natural Gas (NG),Pipeline NG,7109.4
+2018,Natural Gas (NG),Liquefied NG,2850.0
+2018,Other Energy Products,Other Energy Products,77.0
+2019,Coal and Peat,Coal and Peat,458.0
+2019,Crude Oil,Crude Oil,52401.6
+2019,Crude Oil,Other Crude Oil,1998.1
+2019,Petroleum Products,Fuel Oil,57701.0
+2019,Petroleum Products,Gas/Diesel Oil,12095.5
+2019,Petroleum Products,Gasoline,16573.3
+2019,Petroleum Products,Jet Fuel Kerosene,1345.8
+2019,Petroleum Products,Naphtha,6653.7
+2019,Petroleum Products,Other Petroleum Products,5287.0
+2019,Natural Gas (NG),Pipeline NG,6571.7
+2019,Natural Gas (NG),Liquefied NG,3575.9
+2019,Other Energy Products,Other Energy Products,74.4
+2020,Coal and Peat,Coal and Peat,433.2
+2020,Crude Oil,Crude Oil,45269.5
+2020,Crude Oil,Other Crude Oil,1777.8
+2020,Petroleum Products,Fuel Oil,49175.0
+2020,Petroleum Products,Gas/Diesel Oil,13133.8
+2020,Petroleum Products,Gasoline,17769.0
+2020,Petroleum Products,Jet Fuel Kerosene,2117.1
+2020,Petroleum Products,Naphtha,8228.6
+2020,Petroleum Products,Other Petroleum Products,3355.1
+2020,Natural Gas (NG),Pipeline NG,6678.9
+2020,Natural Gas (NG),Liquefied NG,3222.5
+2020,Other Energy Products,Other Energy Products,70.4
